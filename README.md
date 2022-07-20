@@ -1,1 +1,1 @@
-A compilation of random video documentations from various projects, mostly when in my learning phase!
+A compilation of random video documentations from various projects, mostly from my learning phase!
