@@ -5,4 +5,5 @@ Proficient at Solidworks, Fusion360, Ansys, Ricardo WAVE, StarCCM+, Femap with N
 Currently attempting to carve a path to the Aerospace Engineering spectrum. I find that the sole crucial difference between a fully skilled engineer and an unskilled apprentice is the knowledge of self worth and the potential to see perspective.
 
 Work email: kshitijtripathiofficial@gmail.com
-
+Research Gate profile: https://www.researchgate.net/profile/Kshitij-Tripathi-3
+Linkedin profile: https://www.linkedin.com/in/kshitij-tripathi-49938717b/
