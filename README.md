@@ -4,6 +4,8 @@ Ex-powertrain engineer, Cost Co-lead and Electrical Department Lead from Team De
 Proficient at Solidworks, Fusion360, Ansys, Ricardo WAVE, StarCCM+, Femap with NX NASTRAN, Python, and more so in verbal skills and technical communication with experience in other simulation softwares like OpenFOAM through Windows subsystem for Linux(WSL), Femap and Icepak.
 Currently attempting to carve a path to the Aerospace Engineering spectrum. I find that the sole crucial difference between a fully skilled engineer and an unskilled apprentice is the knowledge of self worth and the potential to see perspective.
 
-Work email: kshitijtripathiofficial@gmail.com
+Work email: kshitijtripathi18@gmail.com
+
 Research Gate profile: https://www.researchgate.net/profile/Kshitij-Tripathi-3
+
 Linkedin profile: https://www.linkedin.com/in/kshitij-tripathi-49938717b/
