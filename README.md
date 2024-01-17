@@ -1,11 +1,7 @@
-Mechanical engineer and automobile enthusiast striving to satiate the desire to change the world, one spline at a time. 
-Currently pursuing Mechanical Engineering in Delhi Technological University (formerly Delhi College of Engineering). 
-Ex-powertrain engineer, Cost Co-lead and Electrical Department Lead from Team Defianz Racing with 2.5 years of FSAE experience.
-Proficient at Solidworks, Fusion360, Ansys, Ricardo WAVE, StarCCM+, Femap with NX NASTRAN, Python, and more so in verbal skills and technical communication with experience in other simulation softwares like OpenFOAM through Windows subsystem for Linux(WSL), Femap and Icepak.
-Currently attempting to carve a path to the Aerospace Engineering spectrum. I find that the sole crucial difference between a fully skilled engineer and an unskilled apprentice is the knowledge of self worth and the potential to see perspective.
+Results-driven Mechanical Engineer with a Master's in Thermal Power and Fluid Engineering from The University of Manchester and a BTech in Mechanical Engineering from Delhi Technological University. Proven expertise in Computational Fluid Dynamics, Heat Transfer, and Advanced Power. Adept at cost analysis and manufacturing evaluation, showcased as the Cost and Manufacturing Judge at Formula Student Bharat. Exceptional leadership as Powertrain and Cost Lead for Formula Student Team Defianz Racing, achieving recognition as the Second Best Asian Team at Formula Student Czech 2020. Published researcher in prestigious journals and skilled in diverse technical areas, including CAD/CAE, CFD, and structural mechanics.
 
 Work email: kshitijtripathi18@gmail.com
 
 Research Gate profile: https://www.researchgate.net/profile/Kshitij-Tripathi-3
 
-Linkedin profile: https://www.linkedin.com/in/kshitij-tripathi-49938717b/
+Linkedin profile: https://www.linkedin.com/in/kshitij-tripathi18/
