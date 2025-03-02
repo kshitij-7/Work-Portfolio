@@ -1,5 +1,3 @@
-### **GitHub Profile Description**  
-
 **Kshitij Tripathi**  
 *MSc in Thermal Power and Fluid Engineering | Mechanical Engineer | Computational & Experimental Researcher*  
 
