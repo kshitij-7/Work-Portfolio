@@ -43,6 +43,6 @@ I have authored multiple research papers on multi-metal grid-stiffened structure
 [LinkedIn](https://www.linkedin.com/in/kshitij-tripathi18/)  
 [Email](kshitijtripathi18@gmail.com)
 
-Let’s connect and explore opportunities in computational modeling, material science, and advanced engineering simulations!
+Open to a connect and explore opportunities in computational modeling, material science, and advanced engineering simulations.
 
 
