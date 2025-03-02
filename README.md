@@ -34,14 +34,15 @@ I am an engineer and researcher with a strong background in computational modeli
 
 ### **Publications & Research**  
 I have authored multiple research papers on multi-metal grid-stiffened structures, thermal analysis of MOSFET heat sinks, and advanced manufacturing techniques. My work has been published in journals like Springer and Inderscience.  
-.[Research Gate](https://www.researchgate.net/profile/Kshitij-Tripathi-3)
+[Research Gate](https://www.researchgate.net/profile/Kshitij-Tripathi-3)
 [Publications](https://ebooks.iospress.nl/doi/10.3233/ATDE220755)  
 
 ---
 
 ### **Connect & Collaborate**  
 [LinkedIn](https://www.linkedin.com/in/kshitij-tripathi18/)  
-.[Email](kshitijtripathi18@gmail.com)
+[Email](kshitijtripathi18@gmail.com)
+
 Let’s connect and explore opportunities in computational modeling, material science, and advanced engineering simulations!
 
 
